@@ -38,5 +38,4 @@
 </div>
 
 
-
 ![Snake animation](https://github.com/bryan-barbosa017/bryan-barbosa017/blob/output/github-contribution-grid-snake.svg)

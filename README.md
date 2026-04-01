@@ -31,11 +31,6 @@
 <a href="https://www.linkedin.com/in/seu-usuário-linkedln-aqui" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
 
-<div>
-<a href="https://github.com/bryan-barbosa017">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bryan-barbosa017&layout=compact&langs_count=7&theme=dracula"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=bryan-barbosa017&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bryan-barbosa017&&theme=tokyonight" alt="Bryan" /></p>
 
-
-![Snake animation](https://github.com/bryan-barbosa017/bryan-barbosa017/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/bryan-barbosa017/bryan-barbosa017/blob/output/github-contribution-grid-snake-dark.svg)
